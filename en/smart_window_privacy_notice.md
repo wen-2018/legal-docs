@@ -1,7 +1,7 @@
 # Smart Window Privacy Policy
 
-March 6, 2026
-{: datetime="2026-03-06" }
+April 21, 2026
+{: datetime="2026-04-21" }
 
 ## Smart Window allows you to use AI to enhance your browsing experience
 
